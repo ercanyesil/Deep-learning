@@ -12,6 +12,7 @@ After we made our Gui design, we loaded our workspace into the program and guess
 
 ![image](https://user-images.githubusercontent.com/60502103/113070394-1d3f2c00-91cb-11eb-9904-d2e9c17f62bd.png)
 ![image](https://user-images.githubusercontent.com/60502103/113070407-2203e000-91cb-11eb-9a8d-36b15af90d44.png)
-![image](https://user-images.githubusercontent.com/60502103/113070417-26c89400-91cb-11eb-80e8-6ae90e7e52bb.png)
+![aaa](https://user-images.githubusercontent.com/60502103/113224070-42976d00-9293-11eb-89c6-a055bf62d585.png)
 ![image](https://user-images.githubusercontent.com/60502103/113070422-2af4b180-91cb-11eb-842f-f2b216177d94.png)
-![image](https://user-images.githubusercontent.com/60502103/113070426-2f20cf00-91cb-11eb-9c85-33761f4985b1.png)
+![eee](https://user-images.githubusercontent.com/60502103/113224085-4c20d500-9293-11eb-884d-7dd376c183ac.png)
+
