@@ -11,8 +11,12 @@ We used panel, textbox, axes, push button in our gui design. We enabled the user
 After we made our Gui design, we loaded our workspace into the program and guessed the photo uploaded by the user.
 
 ![image](https://user-images.githubusercontent.com/60502103/113070394-1d3f2c00-91cb-11eb-9904-d2e9c17f62bd.png)
+
 ![image](https://user-images.githubusercontent.com/60502103/113070407-2203e000-91cb-11eb-9a8d-36b15af90d44.png)
+
 ![aaa](https://user-images.githubusercontent.com/60502103/113224070-42976d00-9293-11eb-89c6-a055bf62d585.png)
+
 ![image](https://user-images.githubusercontent.com/60502103/113070422-2af4b180-91cb-11eb-842f-f2b216177d94.png)
+
 ![eee](https://user-images.githubusercontent.com/60502103/113224085-4c20d500-9293-11eb-884d-7dd376c183ac.png)
 
